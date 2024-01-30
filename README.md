@@ -1,5 +1,5 @@
 # python-aprendizagem-DSA
 ### Esse e meu reposito de aprendizagem na linguagem python 
+![Python-logo-notext svg](https://github.com/vandeir95/python-aprendizagem-DSA/assets/84112426/44329cea-1b44-4b2f-b967-9761829bf46e)
 
-<img src="[https://exemplo.com/logo.png](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png)https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="Logo da Minha Empresa">
 
